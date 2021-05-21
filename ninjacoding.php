@@ -2,18 +2,19 @@
     include_once'header.php';
 ?>
 
-<div >
-<img src= "techquiz.png" height="400px" width="400px" style="position:absolute; left:5%; top:35%;" >
+<div>
+<img src= "ninjacoding.png" height="400px" width="400px" style="position:absolute; left:5%; top:35%;" >
 </div>
             <div class="description" style="float: right;">
                 <h4 class="gtn">
-                    Summerfest 2021 is proud to present Tech Quiz, a quiz exclusively for all the tech nerds out there! Use your tech knowledge to win an exciting cash prize!
+                Summerfest 2021 is proud to present Ninja Coding, an event exclusively for those aspiring hackers! This event tests your limits as you are pushed to code crazy tasks in a limited amount of time
  
-                     <ul>
-                    <li >Individual participation only</li>
-                    <li > The event is from 2pm-4pm</li>
-                    <li> Laptops not necessary</li>
-                    </ul>
+                <ul>
+                    <li>Sign up as individuals</li>
+                    <li> The event goes on for as long as you can code</li>
+                    <li>Students must bring their own laptops</li>
+                    <li> Internet connectivity will be provided </li>
+                </ul>
                 </h4>
             </div>
         

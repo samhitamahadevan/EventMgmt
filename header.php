@@ -33,8 +33,13 @@ session_start();
                 echo "<li> <a href='events.php' class='navb'> Events </a> </li>"; 
             }
             ?>
-          
+            <script>
+			$(document).ready(function(){
+			$('[data-toggle="popover"]').popover();   
+			});
+		    </script>
                 
+
             </ul>
         </div>
         
