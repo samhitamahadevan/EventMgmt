@@ -20,7 +20,7 @@
             </div>
         
             <div class="button" style = "position:absolute; left:55%; top:75%;">
-            <button class ="btn3"> REGISTER FOR EVENT </button>
+            <button class ="btn"> REGISTER FOR EVENT </button>
             </div>
              <div class="button1" style = "position:absolute; left:75%; top:75%;">
                  <button class="btn2" onclick="decrement()">  -   </button>
